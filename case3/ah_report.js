@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 3
 
-   Author:  
-   Date:   
+   Author:  Jorge Collazo
+   Date:   2-5-20
    
    Filename: ah_report.js
    
