@@ -25,7 +25,15 @@
 */
 var reportHTML = "<h1>" + raceTitle + "</h1>"
 
-for(var i = 0; )
+for(var i = 0; i < race.length; i++){
+   var totalVotes = 0;
+   votes[i].forEach(calcSum)
+   reportHTML += "<table><caption>" + race[i] + "</caption><tr><th>Candidates</th><th>Votes</th></tr>"
+   //step 6 D
+   reportHTML += "</table>"
+}
+
+document.getElementsByName("section").innerHTML = reportHTML
 
 
 
